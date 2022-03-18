@@ -1,4 +1,4 @@
-/* Untuk Tablet */
+
 @media all and (max-width: 1000px) {
     .card {
       width: 50%;
@@ -14,7 +14,7 @@
     }
   }
   
-  /* Untuk Smartphone */
+
   @media all and (max-width: 670px) {
     .card {
       width: 100%;
@@ -36,12 +36,12 @@
       text-align: left;
     }
     
-    /* Tambahkan CSS untuk header-right */
+
     .header-right {
       display :none;
     }
     
-    /* Tambahkan CSS untuk menu-icon */
+
     .menu-icon {
       display :block;
     }
